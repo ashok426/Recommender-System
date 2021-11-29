@@ -37,3 +37,5 @@ Word2vec is an neural network model uses **semantic meaning of words**. Word2vec
 
 Training word2vec algorithm from scratch is an computationally expensive and also need humonguous data. As i have less data, so i have used **Google pretrained word2vec neural network** for this project. 
 
+So, Convert the book descriptions into a numeric vector and find the similarity between these vectors to recommend the book. I have used **euclidean distance** for finding similarity..
+
