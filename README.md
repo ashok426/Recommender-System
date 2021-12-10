@@ -13,6 +13,8 @@ Let's have a look on my web application which gives book recommendation based on
 
 [https://recommenbook3.herokuapp.com/]
 
+In the dropdown list of web app, there were around 4000 books and user has to select one book title from a list of 4000 books, then recommender system list top 5 similar books.
+
 ## Project demo video: 
 
 Click the below link for project demo video
@@ -25,9 +27,8 @@ For more detailed knowledge about project, click below link
 
 [https://medium.com/@ashok.1055/building-book-recommendation-system-16f2cdf615f2]
 
-In the dropdown list of web app, there were around 4000 books and user has to select one book title from a list of 4000 books, then recommender system list top 5 similar books.
 
-**Below is the screenshot of my web app**
+## Below is the screenshot of my web app:
 
 ![Capture](https://user-images.githubusercontent.com/63462922/143883296-7b024024-3de8-4a09-8fd4-bab830e72cd6.PNG)
 
